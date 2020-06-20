@@ -1,17 +1,19 @@
-site: Sidey
+site: elk.engineer
 url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+title: elk.engineer
+description: wilderness of code.
 twitter:
-  username: #yourusername
+  username: djjonno91
   card: summary
-  creator: #yourusername
+  creator: djjonno91
+medium:
+  username: jonathonscanes
 author:
-  twitter: #yourusername
-  name: #yourusername
+  twitter: djjonno91
+  name: Jonathon
   avatar:
-  email: #youremail
-  url: #yoururl
+  email: jonathon.scanes@gmail.com
+  url: djjonno91
 permalink: pretty
 
 baseurl: ""
