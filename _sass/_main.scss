@@ -19,8 +19,8 @@ nav ul {
     border-right: 1px solid #edf2f7;
 }
 
-nav ul.social {
-	margin-top: 40px
+nav ul li.separate {
+	margin: 30px 0 0;
 }
 
 a {
@@ -184,6 +184,9 @@ main {
 	}
 	nav ul {
 	    border-right: 0px;
+	}
+	nav ul li.separate {
+		margin: 0;
 	}
 
 	.photos ul {
