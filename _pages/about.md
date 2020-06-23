@@ -15,5 +15,6 @@ Apart from coding, I also love snowboarding & writing (not code).
 
 This is my home on the web. Feel free to follow my journey on <a href="https://medium.com/@jonathonscanes">Medium</a> (I post semi-regularly), and <a href="https://github.com/djjonno">Github</a> where I'm always working on something. I typically write about **coding**, **data-intensive applications** & **side projects**.
 
-#### Me and Leana (my lovely, supportive wife)
+
 ![](assets/avatar.png)
+##### Me and Leana (my lovely, supportive wife, Leana)

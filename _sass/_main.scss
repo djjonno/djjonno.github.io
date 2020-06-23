@@ -37,6 +37,7 @@ pre {
 
 .post p {
 	margin: .5rem 0;
+	font-size: 0.9rem;
 }
 
 .post a:hover {
@@ -245,6 +246,11 @@ a#block {
 	background-color: #0000FF;
 }
 
+a#block:hover {
+	border-bottom: none;
+	text-decoration: none;
+}
+
 footer {
 	display: flex;
 	flex-wrap: wrap;
@@ -273,9 +279,11 @@ div.footer ul li {
 	display: inline-block;
 	margin-right: 1rem;
 }
+
 div.footer ul li a {
 	color: #AAA;
 }
+
 div.footer ul li a:hover {
 	border: none;
 	color: black;

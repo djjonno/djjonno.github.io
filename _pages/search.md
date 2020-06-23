@@ -20,14 +20,17 @@ title: Search
 		border: none;
 	}
 	#results-container {
-		margin: .5rem 0;
+		margin: 1rem 0;
+	}
+	#results-container li {
+		list-style-type: none;
 	}
 </style>
 
 <!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="Search...">
-<ol id="results-container"></ol>
+<ul id="results-container"></ul>
 </div>
 
 <!-- Script pointing to search-script.js -->
