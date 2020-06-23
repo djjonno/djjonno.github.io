@@ -19,14 +19,14 @@
         {
             "id": "http://localhost:4000/2020/06/19/making-great-code-greater",
             "title": "Making Great Code Greater",
-            "summary": "How thinking about architecture can take your code to the next level! Think about an abstraction that generalizes the problem you're trying to solve. Perhaps there exists a design pattern that solves your specific problem.",
-            "content_text": "In this post I talk about shifting your thinking away from the code towards the architecture. I also talk about how some of your best code can be written when away from the keyboard.95% of my code is written away from the keyboard.Read here Making Great Code Greater [Medium]",
-            "content_html": "<p>In this post I talk about shifting your thinking away from the code towards the architecture. I also talk about how some of your best code can be written when away from the keyboard.</p><h4 id=\"95-of-my-code-is-written-away-from-the-keyboard\">95% of my code is written away from the keyboard.</h4><p>Read here <a href=\"https://medium.com/@jonathonscanes/4-things-to-take-your-code-to-the-next-level-60f2a74c8ac6\">Making Great Code Greater</a> <a href=\"https://medium.com/@jonathonscanes\">[Medium]</a></p>",
+            "summary": "Think Architecture, not code.",
+            "content_text": "",
+            "content_html": "",
             "url": "http://localhost:4000/2020/06/19/making-great-code-greater",
             
+            "external_url": "https://medium.com/@jonathonscanes/4-things-to-take-your-code-to-the-next-level-60f2a74c8ac6",
             
             
-            "tags": ["coding","engineer"],
             
             "date_published": "2020-06-19T00:00:00-07:00",
             "date_modified": "2020-06-19T00:00:00-07:00",
@@ -43,12 +43,12 @@
         {
             "id": "http://localhost:4000/2020/06/11/staying-quiet-is-quite-unacceptable",
             "title": "Staying Quiet is Quite Unacceptable",
-            "summary": "As a white person, let alone a white man, I have benefited in ways that I will never be able to comprehend. It’s impossible to comprehend your privilege, because it’s impossible to experience life without it.",
-            "content_text": "As a white person, let alone a white man, I have benefited in ways that I will never be able to comprehend. It’s impossible to comprehend your privilege, because it’s impossible to experience life without it.Read here Staying Quiet is Quite Unacceptable [Medium]",
-            "content_html": "<h4 id=\"as-a-white-person-let-alone-a-white-man-i-have-benefited-in-ways-that-i-will-never-be-able-to-comprehend-its-impossible-to-comprehend-your-privilege-because-its-impossible-to-experience-life-without-it\">As a white person, let alone a white man, I have benefited in ways that I will never be able to comprehend. It’s impossible to comprehend your privilege, because it’s impossible to experience life without it.</h4><p>Read here <a href=\"https://medium.com/@jonathonscanes/staying-quiet-is-unacceptable-152ad4c68545\">Staying Quiet is Quite Unacceptable</a> <a href=\"https://medium.com/@jonathonscanes\">[Medium]</a></p>",
+            "summary": "Staying Quiet is Quite Unacceptable",
+            "content_text": "",
+            "content_html": "",
             "url": "http://localhost:4000/2020/06/11/staying-quiet-is-quite-unacceptable",
             
-            
+            "external_url": "https://medium.com/@jonathonscanes/staying-quiet-is-unacceptable-152ad4c68545",
             
             
             
@@ -67,17 +67,41 @@
         {
             "id": "http://localhost:4000/2017/11/24/recall-ui-ux-case-study-of-safari-reading-list",
             "title": "Recall — UI/UX Case Study of Safari Reading List",
-            "summary": "A UX Case Study on Safari Reading List and how we could make it better.",
-            "content_text": "When we improve UX, it is important to preserve the original intent and carry forward all the good parts and learnings, to ensure we are moving the needle forward and not just altering appearance.Read here Recall — UI/UX Case Study of Safari Reading List [Medium]",
-            "content_html": "<h4 id=\"when-we-improve-ux-it-is-important-to-preserve-the-original-intent-and-carry-forward-all-the-good-parts-and-learnings-to-ensure-we-are-moving-the-needle-forward-and-not-just-altering-appearance\">When we improve UX, it is important to preserve the original intent and carry forward all the good parts and learnings, to ensure we are moving the needle forward and not just altering appearance.</h4><p>Read here <a href=\"https://medium.com/@jonathonscanes/recall-ui-ux-case-study-of-safari-reading-list-4272749700c4\">Recall — UI/UX Case Study of Safari Reading List</a> <a href=\"https://medium.com/@jonathonscanes\">[Medium]</a></p>",
+            "summary": "UI/UX Case Study to Improve Safari Reading List.",
+            "content_text": "",
+            "content_html": "",
             "url": "http://localhost:4000/2017/11/24/recall-ui-ux-case-study-of-safari-reading-list",
             
+            "external_url": "https://medium.com/@jonathonscanes/recall-ui-ux-case-study-of-safari-reading-list-4272749700c4",
             
             
-            "tags": ["ux","case-study"],
             
             "date_published": "2017-11-24T00:00:00-08:00",
             "date_modified": "2017-11-24T00:00:00-08:00",
+            
+                "author":  {
+                "name": "Jonathon",
+                "url": "djjonno91",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2017/10/07/a-visualized-manhattan",
+            "title": "A Visualised Manhattan",
+            "summary": "Using open data to create cool visuals.",
+            "content_text": "",
+            "content_html": "",
+            "url": "http://localhost:4000/2017/10/07/a-visualized-manhattan",
+            
+            "external_url": "https://medium.com/@jonathonscanes/a-visualised-manhattan-4ac4d04efff8",
+            
+            
+            
+            "date_published": "2017-10-07T00:00:00-07:00",
+            "date_modified": "2017-10-07T00:00:00-07:00",
             
                 "author":  {
                 "name": "Jonathon",

@@ -5,9 +5,9 @@
       "title"    : "Making Great Code Greater",
       "url"      : "/2020/06/19/making-great-code-greater",
       "category" : "",
-      "tags"     : "coding, engineer",
+      "tags"     : "",
       "date"     : "2020-06-19 00:00:00 -0700",
-      "discription" : "How thinking about architecture can take your code to the next level! Think about an abstraction that generalizes the problem you&#39;re trying to solve. Perhaps there exists a design pattern that solves your specific problem."
+      "discription" : "Think Architecture, not code."
 
     } ,
   
@@ -16,9 +16,9 @@
       "title"    : "Staying Quiet is Quite Unacceptable",
       "url"      : "/2020/06/11/staying-quiet-is-quite-unacceptable",
       "category" : "",
-      "tags"     : "BLM",
+      "tags"     : "",
       "date"     : "2020-06-11 00:00:00 -0700",
-      "discription" : "As a white person, let alone a white man, I have benefited in ways that I will never be able to comprehend. It’s impossible to comprehend your privilege, because it’s impossible to experience life without it."
+      "discription" : "Staying Quiet is Quite Unacceptable"
 
     } ,
   
@@ -27,9 +27,20 @@
       "title"    : "Recall — UI/UX Case Study of Safari Reading List",
       "url"      : "/2017/11/24/recall-ui-ux-case-study-of-safari-reading-list",
       "category" : "",
-      "tags"     : "ux, case-study",
+      "tags"     : "",
       "date"     : "2017-11-24 00:00:00 -0800",
-      "discription" : "A UX Case Study on Safari Reading List and how we could make it better."
+      "discription" : "UI/UX Case Study to Improve Safari Reading List."
+
+    } ,
+  
+    {
+
+      "title"    : "A Visualised Manhattan",
+      "url"      : "/2017/10/07/a-visualized-manhattan",
+      "category" : "",
+      "tags"     : "",
+      "date"     : "2017-10-07 00:00:00 -0700",
+      "discription" : "Using open data to create cool visuals."
 
     } 
   

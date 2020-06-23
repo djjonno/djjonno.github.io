@@ -4,7 +4,7 @@
  <title>elk.engineer</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-06-20T15:14:38-07:00</updated>
+ <updated>2020-06-22T23:36:15-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Jonathon</name>
@@ -17,11 +17,7 @@
    <link href="http://localhost:4000/2020/06/19/making-great-code-greater"/>
    <updated>2020-06-19T00:00:00-07:00</updated>
    <id>http://localhost:4000/2020/06/19/making-great-code-greater</id>
-   <content type="html">&lt;p&gt;In this post I talk about shifting your thinking away from the code towards the architecture. I also talk about how some of your best code can be written when away from the keyboard.&lt;/p&gt;
-
-&lt;h4 id=&quot;95-of-my-code-is-written-away-from-the-keyboard&quot;&gt;95% of my code is written away from the keyboard.&lt;/h4&gt;
-
-&lt;p&gt;Read here &lt;a href=&quot;https://medium.com/@jonathonscanes/4-things-to-take-your-code-to-the-next-level-60f2a74c8ac6&quot;&gt;Making Great Code Greater&lt;/a&gt; &lt;a href=&quot;https://medium.com/@jonathonscanes&quot;&gt;[Medium]&lt;/a&gt;&lt;/p&gt;
+   <content type="html">
 </content>
  </entry>
  
@@ -30,9 +26,7 @@
    <link href="http://localhost:4000/2020/06/11/staying-quiet-is-quite-unacceptable"/>
    <updated>2020-06-11T00:00:00-07:00</updated>
    <id>http://localhost:4000/2020/06/11/staying-quiet-is-quite-unacceptable</id>
-   <content type="html">&lt;h4 id=&quot;as-a-white-person-let-alone-a-white-man-i-have-benefited-in-ways-that-i-will-never-be-able-to-comprehend-its-impossible-to-comprehend-your-privilege-because-its-impossible-to-experience-life-without-it&quot;&gt;As a white person, let alone a white man, I have benefited in ways that I will never be able to comprehend. It’s impossible to comprehend your privilege, because it’s impossible to experience life without it.&lt;/h4&gt;
-
-&lt;p&gt;Read here &lt;a href=&quot;https://medium.com/@jonathonscanes/staying-quiet-is-unacceptable-152ad4c68545&quot;&gt;Staying Quiet is Quite Unacceptable&lt;/a&gt; &lt;a href=&quot;https://medium.com/@jonathonscanes&quot;&gt;[Medium]&lt;/a&gt;&lt;/p&gt;
+   <content type="html">
 </content>
  </entry>
  
@@ -41,9 +35,16 @@
    <link href="http://localhost:4000/2017/11/24/recall-ui-ux-case-study-of-safari-reading-list"/>
    <updated>2017-11-24T00:00:00-08:00</updated>
    <id>http://localhost:4000/2017/11/24/recall-ui-ux-case-study-of-safari-reading-list</id>
-   <content type="html">&lt;h4 id=&quot;when-we-improve-ux-it-is-important-to-preserve-the-original-intent-and-carry-forward-all-the-good-parts-and-learnings-to-ensure-we-are-moving-the-needle-forward-and-not-just-altering-appearance&quot;&gt;When we improve UX, it is important to preserve the original intent and carry forward all the good parts and learnings, to ensure we are moving the needle forward and not just altering appearance.&lt;/h4&gt;
-
-&lt;p&gt;Read here &lt;a href=&quot;https://medium.com/@jonathonscanes/recall-ui-ux-case-study-of-safari-reading-list-4272749700c4&quot;&gt;Recall — UI/UX Case Study of Safari Reading List&lt;/a&gt; &lt;a href=&quot;https://medium.com/@jonathonscanes&quot;&gt;[Medium]&lt;/a&gt;&lt;/p&gt;
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Visualised Manhattan</title>
+   <link href="http://localhost:4000/2017/10/07/a-visualized-manhattan"/>
+   <updated>2017-10-07T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2017/10/07/a-visualized-manhattan</id>
+   <content type="html">
 </content>
  </entry>
  

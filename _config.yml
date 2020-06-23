@@ -1,6 +1,6 @@
-site: elk.engineer
+site: jnthn.dev
 url: djjonno.github.io
-title: elk.engineer
+title: jnthn.dev
 description: wilderness of code.
 twitter:
   username: djjonno91
@@ -43,6 +43,8 @@ collections:
   posts:
     output: true
     permalink: /:year/:month/:day/:slug
+  projects:
+    output: true
   
 defaults:
   -
